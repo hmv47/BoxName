@@ -12,5 +12,7 @@ Prints name in a box
 
 ## Releases
 [v1.0](https://github.com/hmv47/BoxName/releases/tag/v1.0) added ability to enter box size, box is dynamically built
+
 [v0.2](https://github.com/hmv47/BoxName/releases/tag/v0.2) added female / male differentiation for Lithuanian names
+
 [v0.1](https://github.com/hmv47/BoxName/releases/tag/v0.1) initial version
