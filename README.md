@@ -10,4 +10,6 @@ Prints name in a box
 1. Enter your name
 
 ## Releases
+[v0.2](https://github.com/hmv47/BoxName/releases/tag/v0.2) added female / male differentiation for Lithuanian names
+
 [v0.1](https://github.com/hmv47/BoxName/releases/tag/v0.1) initial version
